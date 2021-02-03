@@ -23,7 +23,7 @@
 ![menu-principal-genvalip](img/genvalip.png)
 
 ---
-**_caso a sua conexão a internet estiver muito baixa ou não tiver alguma \
+**_caso a sua conexão a internet esteja muito baixa ou não haver alguma \
 o script é capaz de demorar uma ETERNIDADE para executar a acção desejada!_** 
 
 &copy; 2019-2021 [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com) \

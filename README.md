@@ -14,7 +14,7 @@
 
     - ele cria um endereço de IP atravez de uma combinação padrão
     - verifica se o IP criado tem um DNS válido
-    - e cria uma lista organizada com a quantidade de IPs pré definida
+    - e cria uma lista organizada com uma quantidade de IPs pré definida
 
 ---
 

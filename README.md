@@ -1,16 +1,6 @@
 # GenVal-IP
 
 ```txt
-*****************************************************
-*   Direitos Autorais (c) 2019-2021 Nurul GC        *
-*                                                   *
-*   Jovem Programador                               *
-*   Estudante de Engenharia de Telecomunicações     *
-*   Tecnologia de Informação e de Medicina.         *
-*   Foco Fé Força Paciência                         *
-*   Allah no Comando.                               *
-*****************************************************
-
 simples script-programa que gera e valida endereços de IPs
 
 - ele cria um endereço de IP atravez de uma combinação padrão
